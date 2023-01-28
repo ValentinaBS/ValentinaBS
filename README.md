@@ -1,17 +1,4 @@
-
-<div id="header" align="center">
-  <h1>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  Welcome to my profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  </h1>
-  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="300"/>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/valentina-belen-sanchez/" >
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-  </div>
-</div>
+![github-profile-banner](https://user-images.githubusercontent.com/101603773/215284046-6ff01b42-a9e4-4553-ae21-5dd4f47aac91.png)
 
 ---
 
@@ -27,13 +14,18 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 
 - 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/ValentinaBS)!
 
-- 📫 How to reach me: **vbsanchez16@gmail.com** or [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-belen-sanchez/)
+- 📫 How to reach me: **vbsanchez16@gmail.com** or <a href="https://www.linkedin.com/in/valentina-belen-sanchez/" >
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
 
 <br>
 
 ---
 
+
+
 ### 🛠️ Languages and Tools:
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
@@ -49,9 +41,11 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" title="Canva" alt="Canva" width="40" height="40"/>&nbsp;
 </div>
 
+
 ---
 
 ### ✨ Project Highlights:
+
 <a href="https://github.com/ValentinaBS/tenzies"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=tenzies&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="tenzies game"></a>
 <a href="https://github.com/ValentinaBS/qr-code-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=qr-code-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="QR code component"></a>
 <a href="https://github.com/ValentinaBS/travel-journal"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=travel-journal&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="travel journal"></a>
