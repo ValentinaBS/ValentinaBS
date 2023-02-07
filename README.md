@@ -29,9 +29,9 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="SASS" alt="SASS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
@@ -50,7 +50,7 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 <a href="https://github.com/ValentinaBS/qr-code-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=qr-code-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="QR code component"></a>
 <a href="https://github.com/ValentinaBS/travel-journal"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=travel-journal&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="travel journal"></a>
 <a href="https://github.com/ValentinaBS/product-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=product-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="product preview card component"></a>
-<a href="https://github.com/ValentinaBS/Contador-Clicks-React-Tailwind"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=Contador-Clicks-React-Tailwind&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="click counter React and Tailwind"></a>
+<a href="https://github.com/ValentinaBS/interactive-rating-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=interactive-rating-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="interactive rating component"></a>
 <a href="https://github.com/Analia-Ramos/numen-project"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Analia-Ramos&repo=numen-project&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="E-commerce with React and Tailwind"></a>
 
 ---
