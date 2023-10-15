@@ -10,9 +10,9 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 
 - 🌱 I’m constantly updating my knowledge in frontend and backend for building web applications.
 
-- ⚡ In my free time, I solve problems on Codewars and read tech articles.
+- ⚡ In my free time, I brainstorm new project ideas and read tech articles.
 
-- 🔍 Take a look at my projects on [**Frontend Mentor**](https://www.frontendmentor.io/profile/ValentinaBS)!
+- 🔍 Take a look at my [**Portfolio**](https://portfolio-valentina-sanchez.vercel.app/)!
 
 - 📫 How to reach me: **vbsanchez16@gmail.com** or <a href="https://www.linkedin.com/in/valentina-belen-sanchez/" >
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -52,12 +52,12 @@ Hello! I'm Valentina, a Full Stack Web Developer <img src="https://media.giphy.c
 
 ### ✨ Project Highlights:
 
-<a href="https://github.com/ValentinaBS/tenzies"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=tenzies&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="tenzies game"></a>
+<a href="https://github.com/ValentinaBS/e-commerce-mindhub"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=e-commerce-mindhub&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Final project of the Full Stack Java bootcamp from Mindhub"></a>
 <a href="https://github.com/ValentinaBS/EntregaFinal-KibouSushi-Sanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=EntregaFinal-KibouSushi-Sanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Sushi e-commerce"></a>
-<a href="https://github.com/ValentinaBS/travel-journal"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=travel-journal&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="travel journal"></a>
+<a href="https://github.com/ValentinaBS/AmazingEventsVueValentinaSanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=AmazingEventsVueValentinaSanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Events page in Vue"></a>
 <a href="https://github.com/ValentinaBS/product-preview-card-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=product-preview-card-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="product preview card component"></a>
 <a href="https://github.com/ValentinaBS/interactive-rating-component"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=interactive-rating-component&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="interactive rating component"></a>
-<a href="https://github.com/Analia-Ramos/numen-project"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=Analia-Ramos&repo=numen-project&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="E-commerce with React and Tailwind"></a>
+<a href="https://github.com/ValentinaBS/MindhubBankValentinaSanchez"><img width="320" src="https://github-readme-stats.vercel.app/api/pin/?username=ValentinaBS&repo=MindhubBankValentinaSanchez&theme=react&bg_color=161B22&title_color=58A6FF&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="Homebanking project"></a>
 
 ---
 
